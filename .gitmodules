@@ -4,3 +4,6 @@
 [submodule "memo-juniors"]
 	path = memo-juniors
 	url = https://github.com/adoniadeutschland/memo-juniors
+[submodule "bingo-juniors"]
+	path = bingo-juniors
+	url = https://github.com/adoniadeutschland/bingo-juniors
