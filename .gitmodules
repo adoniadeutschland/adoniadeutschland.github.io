@@ -7,3 +7,6 @@
 [submodule "bingo-juniors"]
 	path = bingo-juniors
 	url = https://github.com/adoniadeutschland/bingo-juniors
+[submodule "puzzle-juniors"]
+	path = puzzle-juniors
+	url = https://github.com/adoniadeutschland/puzzle-juniors
