@@ -1,0 +1,3 @@
+[submodule "quizz-juniors"]
+	path = quizz-juniors
+	url = https://github.com/adoniadeutschland/quizz-juniors
